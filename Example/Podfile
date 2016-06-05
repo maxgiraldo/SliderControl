@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SliderControl_Tests' do
+  pod 'SliderControl', :path => '../'
+  
+  
+end
