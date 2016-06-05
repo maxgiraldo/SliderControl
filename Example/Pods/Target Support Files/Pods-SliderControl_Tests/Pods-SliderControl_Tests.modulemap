@@ -1,0 +1,6 @@
+framework module Pods_SliderControl_Tests {
+  umbrella header "Pods-SliderControl_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

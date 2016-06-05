@@ -1,0 +1,16 @@
+PODS:
+  - SliderControl (0.1.0)
+
+DEPENDENCIES:
+  - SliderControl (from `../`)
+
+EXTERNAL SOURCES:
+  SliderControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SliderControl: c62f37312a86954a359435df240fc32f4e94091d
+
+PODFILE CHECKSUM: 8c7fd11075da85b0ec1b83ee4cf0308260be49ef
+
+COCOAPODS: 1.0.1

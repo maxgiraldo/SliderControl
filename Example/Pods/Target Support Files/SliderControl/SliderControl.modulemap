@@ -1,0 +1,6 @@
+framework module SliderControl {
+  umbrella header "SliderControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

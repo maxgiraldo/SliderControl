@@ -1,0 +1,22 @@
+{
+  "name": "SliderControl",
+  "version": "0.1.0",
+  "summary": "A short description of SliderControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SliderControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Max Giraldo": "maxgiraldo@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SliderControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SliderControl/Classes/**/*"
+}
